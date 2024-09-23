@@ -20,6 +20,9 @@ The project supports **Sustainable Development Goal 3 (Good Health and Well-bein
 - **Format**: The ECG recordings are in MATLAB format (`.mat`), with each signal sampled at 128 Hz.
 - **Size**: The dataset includes 162 recordings, consisting of 96 ARR, 30 CHF, and 36 NSR recordings.
 
+The data can be downloaded from this repo:
+!git clone https://github.com/mathworks/physionet_ECG_data.git
+
 ## Methodology
 
 ### 1. Data Preprocessing
